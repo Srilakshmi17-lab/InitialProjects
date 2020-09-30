@@ -1,0 +1,35 @@
+header {
+    color:white;
+    background-color: #3d6271;
+    
+}
+
+footer {
+    color:white;
+    background-color: #3d6271;
+    
+
+}
+
+.frame {
+    width: 500px;
+    height: 400px;
+    border: 2px solid #ccc;
+    background: #eee;
+    
+    padding: 5px 5px;
+  }
+
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+  mark.blue {
+    color:blue;
+    background: none;
+}
